@@ -1,0 +1,5 @@
+There are a few nuances to consider regarding the rules applied in our clubs. We aim to create an exclusive environment for each club, and therefore, we grant club owners as much freedom as possible. However, this approach can lead to complexity, as different clubs may have different policies enforced by their respective staff members. Attempting to compile all rules into a single message applicable to every club is impractical and could either miss some important rules or become overly restrictive.
+
+In the end, we have decided that it's best to shift the responsibility for club rules to the club owners themselves. Ideally, you will find a dedicated channel under each category, similar to `#rules` or `#info`, specific to each club. There, you will be provided with the club's set of rules, which not only provides more detailed instructions but also makes it easier to add, remove, or amend rules.
+
+It is important to remember that every rule in <#1146807512952225894> is in effect everywhere by default and cannot be overridden, even if a club's owner does not explicitly mention them.
