@@ -29,9 +29,9 @@ All adult material will be removed.
 Try not to bloat chats with huge blocks of messages or uploads.
 ### 15. No Spam or File Overload
 Seriously, why?
-### 16. Never Spread Malintent
+### 16. Content Source Caution
 No untrusted sources, websites, link shorteners, files, downloaders, etc.
-### 17. Prefer Single Long Messages
+### 17. Single Message Per Text
 Try to group your messages as much as possible.
 ### 18. Use Relevant Channels
 Make sure to use channels only for their purposes.
