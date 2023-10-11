@@ -20,7 +20,7 @@ Do not share anyone's sensitive information without their prior consent.
 ### 10. Avoid Constantly Disturbing People
 Do not Direct Message or @mention users unless they allow you.
 ### 11. Nothing Prohibited by Law or a Service’s ToS
-E.g. unethical hacking, offensive security, web scraping, etc. 
+E.g. unethical hacking, offensive security, web scraping, etc.
 ### 12. Appropriate Usernames and Profile Pictures
 We shall require you to change them in any case.
 ### 13. Do Not Upload NSFW Content
