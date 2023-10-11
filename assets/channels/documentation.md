@@ -13,21 +13,21 @@ This is our documentation written by the administrators of the server to provide
 
 ## Modules
 
-* # roles
-* # clubs
-* # hotlines
-* # bot commands
-* # staff privileges
+* <# roles>
+* <# clubs>
+* <# hotlines>
+* <# bot commands>
+* <# staff privileges>
 
 ## Features
 
-* # join clubs
-* # set colored name
-* # set birthday
-* # find lost items
-* # star messages
-* # launch activities
-* # follow news
+* <# join clubs>
+* <# set colored name>
+* <# set birthday>
+* <# find lost items>
+* <# star messages>
+* <# launch activities>
+* <# follow news>
 
 ## Resources
 
